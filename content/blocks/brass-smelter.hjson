@@ -1,6 +1,6 @@
 type: GenericCrafter
-name: Barite Quern
-description: Crushes Irradiated Lumps into usable and buildable Barite. Requires power.
+name: Brass Smelter
+description: Crushes Coppers Leads into usable and buildable Brass. Requires power.
 size: 2
 squareSprite: false
 consumes: {

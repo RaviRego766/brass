@@ -1,7 +1,7 @@
 type: GenericCrafter
 name: Brass Smelter
 description: Crushes Coppers Leads into usable and buildable Brass. Requires power.
-size: 2
+size: 3
 squareSprite: false
 consumes: {
   power: 1

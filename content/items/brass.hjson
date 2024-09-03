@@ -5,4 +5,4 @@ cost: 0
 alwaysUnlocked: true
 color: ff8000
 research: brass-smelter
-hiddenOnPlanets: [serpulo, erekir]
+hiddenOnPlanets: [erekir]

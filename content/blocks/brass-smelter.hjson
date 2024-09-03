@@ -11,7 +11,6 @@ consumes: {
   ]
 }
 craftTime: 30
-craftEffect: blastExplosion
 outputItem: brass/1
 category: crafting
 research: kiln
